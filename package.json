@@ -1,0 +1,11 @@
+{
+  "name": "github-issues-navigator",
+  "description": "A different Issues Navigator for GH",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "3.4.8",
+    "github": "mikedeboer/node-github",
+    "hbs": "*"
+  }
+}
